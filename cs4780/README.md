@@ -6,16 +6,16 @@ course website: https://www.cs.cornell.edu/courses/cs4780/2019fa/
 
 Machine learning is concerned with the question of how to make computers learn from experience. The ability to learn is not only central to most aspects of intelligent behavior, but machine learning techniques have become key components of many software systems. For examples, machine learning techniques are used to build search engines, to recommend movies, to understand natural language and images, and to build autonomous robots. This course will introduce the fundamental set of techniques and algorithms that constitute supervised machine learning as of today. The course will not only discuss individual algorithms and methods, but also tie principles and approaches together from a theoretical perspective. In particular, the course will cover the following topics:
 
-- Supervised Batch Learning: model, decision theoretic foundation, model selection, model assessment, empirical risk minimization
-- Instance-based Learning: K-Nearest Neighbors, collaborative filtering
-- Decision Trees: TDIDT, attribute selection, pruning and overfitting
-- Linear Rules: Perceptron, logistic regression, linear regression, duality
-- Support Vector Machines: Optimal hyperplane, margin, kernels, stability
-- Deep Learning: multi-layer perceptrons, deep networks, stochastic gradient
-- Generative Models: generative vs. discriminative, naive Bayes, linear discriminant analysis
-- Structured Output Prediction: predicting sequences, hidden markov model, rankings
-- Statistical Learning Theory: generalization error bounds, VC dimension
-- Online Learning: experts, bandits, online mistake bounds
+- **Supervised Batch Learning**: model, decision theoretic foundation, model selection, model assessment, empirical risk minimization
+- **Instance-based Learning**: K-Nearest Neighbors, collaborative filtering
+- **Decision Trees**: TDIDT, attribute selection, pruning and overfitting
+- **Linear Rules**: Perceptron, logistic regression, linear regression, duality
+- **Support Vector Machines**: Optimal hyperplane, margin, kernels, stability
+- **Deep Learning**: multi-layer perceptrons, deep networks, stochastic gradient
+- **Generative Models**: generative vs. discriminative, naive Bayes, linear discriminant analysis
+- **Structured Output Prediction**: predicting sequences, hidden markov model, rankings
+- **Statistical Learning Theory**: generalization error bounds, VC dimension
+- **Online Learning**: experts, bandits, online mistake bounds
 
 ## Schedule
 
