@@ -192,5 +192,5 @@ Fairness in Ranking and Wrap-up [slides](./27-fairrank.pdf)/[video](https://corn
 
 ## Reading Materials
 
-- [Understanding Machine Learning - From Theory to Algorithms](./understanding-machine-learning-theory-algorithms.pdf)
-- [The Algorithmic Foundations of Differential Privacy](./privacybook.pdf)
+- [Understanding Machine Learning - From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+- [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
