@@ -183,7 +183,7 @@ Privacy and Fairness [slides](./26-privacy-fairness.pdf)/[video](https://cornell
 - Fairness Tradeoffs
 
 Fairness in Ranking and Wrap-up [slides](./27-fairrank.pdf)/[video](https://cornell.mediasite.com/Mediasite/Play/2ae9a6c47f9343e89a7ae1543b69ba441d?catalog=467d80413f01480ab0be1b1722e68bf221)
-- eading: none
+- Reading: none
 - Fairness of exposure
 - Endogenous vs. exogenous bias
 - Review of main class themes
